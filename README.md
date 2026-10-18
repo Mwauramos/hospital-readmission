@@ -91,8 +91,4 @@ streamlit run app.py
 
 ---
 
-## Context
-
-Built as part of the ZENIK.AI 12-project Healthcare AI portfolio. Synthetic data modelled on Kenya-specific health system parameters including NHIF insurance coverage, rural/urban distribution, and disease burden patterns from KNBS and MOH Kenya data.
-
-**Author:** Amos Mwaura | [github.com/Mwauramos](https://github.com/Mwauramos)
+**Author:** Amos Mwaura | mwauramos.n@gmail.com
