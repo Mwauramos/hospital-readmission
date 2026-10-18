@@ -1,0 +1,11 @@
+group,subgroup,n,actual_readmission_rate,predicted_positive_rate,auc
+Sex,Female,992,0.34,0.461,0.752
+Sex,Male,1008,0.371,0.36,0.779
+Age Band,<30,236,0.225,0.191,0.804
+Age Band,30-50,698,0.301,0.284,0.729
+Age Band,50-70,766,0.385,0.48,0.74
+Age Band,70+,300,0.51,0.697,0.747
+Residence,Urban,625,0.253,0.318,0.715
+Residence,Rural,1375,0.402,0.452,0.767
+Insurance,Uninsured,1087,0.369,0.487,0.755
+Insurance,NHIF Insured,913,0.34,0.319,0.771
