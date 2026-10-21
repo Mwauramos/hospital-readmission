@@ -1,5 +1,5 @@
 # app.py — Hospital Readmission Predictor
-# ZENIK.AI | Project 9: Computational Epidemiology
+# ZENIK.AI | Healthcare AI Engineering
 
 import streamlit as st
 import pickle
@@ -36,7 +36,6 @@ auc = bundle["auc"]
 
 st.sidebar.image("https://img.shields.io/badge/ZENIK.AI-Healthcare%20AI-0a9396?style=for-the-badge", use_column_width=True)
 st.sidebar.markdown("## 🏥 Hospital Readmission Predictor")
-st.sidebar.markdown("**Project 9 | ZENIK.AI Portfolio**")
 st.sidebar.markdown("Predicts 30-day hospital readmission risk for Kenyan patients using logistic regression with SHAP explainability and fairness auditing.")
 st.sidebar.markdown("---")
 st.sidebar.markdown(f"**Model:** `{model_name}`")
@@ -191,4 +190,4 @@ with tab3:
 # ── Footer ────────────────────────────────────────────────────────────────────
 
 st.markdown("---")
-st.markdown("**ZENIK.AI** | Project 9: Hospital Readmission Predictor | Synthetic Kenya cohort | [GitHub](https://github.com/Mwauramos/hospital-readmission)")
+st.markdown("**ZENIK.AI** | Hospital Readmission Predictor | Synthetic Kenya cohort | [GitHub](https://github.com/Mwauramos/hospital-readmission)")
